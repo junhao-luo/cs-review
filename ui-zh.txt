@@ -1,0 +1,54 @@
+CS|計概
+STUDY ROOM|自習室
+MIDTERM · NOV 05, 2026|期中考 · 2026 年 11 月 5 日
+● PRIVATE PRACTICE|● 私人練習
+INTRODUCTION TO COMPUTER SCIENCE|電腦科學概論
+A little practice.|多一點練習，
+A clearer mind.|觀念更清晰。
+A fresh exam every time, drawn from the textbook and homework. Broaden your practice across all eight chapters.|每次從課本與作業題庫抽出全新試卷，擴大第 1–8 章的練習範圍。
+questions|題目
+possible points|總分
+chapters covered|涵蓋章節
+Practice timer|練習計時
+Untimed|不計時
+Start mock exam|開始模擬考
+Resume saved attempt|繼續上次作答
+20 multiple choice + 30 fill-in-the-blank · 2 points each · Homework from every chapter · At least 8 homework questions|20 題選擇題＋30 題填充題 · 每題 2 分 · 各章皆含作業題 · 至少 8 題來自作業
+Practice timing and scoring are self-study settings, not announced exam rules. Answers and textbook sources appear after submission. This is a reconstructed practice exam, not the actual test.|計時與配分為自習設定，並非老師公布的考試規則。交卷後才顯示解答與課本來源。本模擬考依教材重建，並非實際考卷。
+English, Mandarin, abbreviations, and combined equivalents accepted. Questions and choices are shuffled. Less-seen concepts are prioritized. Your current attempt stays unchanged when you resume.|接受英文、中文、縮寫與組合式等義答案。題目與選項會隨機排序，優先抽出較少練習的觀念。繼續作答時會保留原本的試卷。
+YOUR REHEARSAL|模擬練習
+Make it count.|每一次練習都有收穫。
+TIME REMAINING|剩餘時間
+QUESTION MAP|題目導覽
+Jump to question|跳至題目
+Filled = answered|實心＝已作答
+Amber = flagged for review|琥珀色＝已標記待複習
+Submit exam →|交卷 →
+New attempt|重新練習
+01 / Multiple choice|01／選擇題
+02 / Fill in the blank|02／填充題
+Part 1 · 20 questions · 40 points|第一部分 · 20 題 · 40 分
+Part 2 · 30 questions · 60 points|第二部分 · 30 題 · 60 分
+Next: Fill in the blank →|下一部分：填充題 →
+← Back to multiple choice|← 返回選擇題
+Flagged|已標記
+Flag for review|標記待複習
+Type your answer…|請輸入答案…
+Correct · 2 / 2|答對 · 2 / 2
+Not yet · 0 / 2|尚未答對 · 0 / 2
+Correct · 2 / 2 · self-assessed|答對 · 2 / 2 · 自行評分
+My wording is equivalent — count as correct (self-assessed)|我的答案與解答等義，計為答對（自行評分）
+Show only missed questions|只顯示答錯題目
+YOUR RESULTS|練習結果
+Every mistake is a clue.|從錯誤中找到學習方向。
+EXAM COMPLETE|已交卷
+Review|檢討
+Equivalent terms, abbreviations, English–Mandarin combinations, and common number formats are accepted. An unfamiliar paraphrase may need review: use the self-assessment checkbox only if its meaning matches the textbook. Self-assessed points are included in your score. No partial credit.|接受等義詞、縮寫、中英混合答案與常見數字格式。未辨識的改寫可能需要自行檢查：只有在意思符合課本時才勾選自行評分。自行評分的分數會計入總分；不給部分分數。
+Ready to turn it in?|準備交卷了嗎？
+Keep working|繼續作答
+Submit & review|交卷並檢討
+All 50 questions are answered. Submit and reveal your score and textbook sources?|50 題皆已作答。確定交卷並顯示成績與課本來源？
+Replace your saved attempt and start again?|要取代已儲存的作答並重新開始嗎？
+Start over? Your saved attempt will be replaced when you start the new exam.|要重新練習嗎？開始新試卷時將取代原本儲存的作答。
+LEARN THE CONCEPT. KEEP THE WORDING.|理解觀念，熟悉用語。
+Sources: 計算機概論 · 21st edition|資料來源：計算機概論 · 第 21 版

@@ -1,0 +1,315 @@
+A physical calculator|實體計算機
+A hypothetical computing machine|假想的計算機器
+A network router|網路路由器
+An operating system|作業系統
+Transistors|電晶體
+Integrated circuits|積體電路
+Vacuum tubes|真空管
+Magnetic disks|磁碟
+Magnetic tape|磁帶
+Integrated circuits (IC)|積體電路（IC）
+Expansion bus|擴充匯流排
+System bus|系統匯流排
+USB port|USB 連接埠
+Network interface|網路介面
+Solid-State Drive|固態硬碟（Solid-State Drive）
+Sequential Storage Device|循序儲存裝置（Sequential Storage Device）
+System Storage Disk|系統儲存磁碟（System Storage Disk）
+Static Signal Drive|靜態訊號磁碟機（Static Signal Drive）
+Data link layer|資料連結層
+Transport layer|傳輸層
+Physical layer|實體層
+Network layer|網路層
+Session layer|會議層
+Presentation layer|表達層
+Application layer|應用層
+Addition and one's-complement arithmetic|加法與 1 的補數運算
+Multiplication and two’s complement|乘法與 2 的補數
+XOR only|僅使用 XOR
+Decimal subtraction only|僅使用十進位減法
+Web browser|網頁瀏覽器
+Search engine|搜尋引擎
+Operating system|作業系統
+Domain registrar|網域註冊商
+Always discard all packets|一律丟棄所有封包
+Only encrypt packets|僅加密封包
+Allow, discard, or modify packets|允許、丟棄或修改封包
+Only inspect images|僅檢查圖片
+Jacquard loom|賈卡德織布機
+Pascaline|巴斯卡計算機
+Turing Machine|圖靈機
+Abacus|算盤
+Andrew Yao|姚期智（Andrew Yao）
+John Bardeen|約翰巴丁（John Bardeen）
+Stored program|儲存程式
+Cloud computing|雲端運算
+Parallel computing|平行運算
+Artificial intelligence|人工智慧
+Output subsystem|輸出子系統
+Memory|記憶體
+Control unit|控制單元
+ALU|算術邏輯單元（ALU）
+Plausible-looking but seriously incorrect generated information|看似合理卻有嚴重錯誤的生成資訊
+A machine developing consciousness|機器產生意識
+An AI refusing every instruction|AI 拒絕所有指令
+An AI becoming a physical robot|AI 變成實體機器人
+AI Act|人工智慧法案（AI Act）
+Digital Services Act|數位服務法（Digital Services Act）
+Copyright Act|著作權法（Copyright Act）
+Output unit|輸出單元
+Main memory|主記憶體
+Neural networks|神經網路
+Relational databases|關聯式資料庫
+Packet switching|封包交換
+Optical discs|光碟
+Deep learning|深度學習
+Blockchain|區塊鏈
+Optical storage|光學儲存
+Circuit switching|電路交換
+Bit|位元
+Byte|位元組
+Word|字組
+Character|字元
+Two's complement|2 的補數
+One's complement|1 的補數
+Sign-and-magnitude|符號大小表示法
+Decimal notation|十進位表示法
+Binary digit|二進位數字（Binary digit）
+Binary integer|二進位整數（Binary integer）
+Byte digit|位元組數字（Byte digit）
+Boolean item|布林項目（Boolean item）
+Program Counter|程式計數器
+Instruction Register|指令暫存器
+Cache|快取記憶體
+Control bus|控制匯流排
+Address bus|位址匯流排
+Data bus|資料匯流排
+Hard disk|硬碟
+Optical disc|光碟
+Register|暫存器
+Bus|匯流排
+Keyboard|鍵盤
+Printer|印表機
+Pipelining|管線化
+Disk formatting|磁碟格式化
+Polling|輪詢
+Packet routing|封包路由
+Kernel|核心
+Spreadsheet|試算表
+Compiler|編譯器
+Process|行程
+File extension|副檔名
+Packet|封包
+Port|連接埠
+Process Control Block|行程控制區塊
+DNS record|DNS 記錄
+Network mask|網路遮罩
+Page header|分頁標頭
+Ready|就緒
+Terminated|終止
+Waiting for input|等待輸入
+New|新增
+Time sharing|分時
+Batch-only system|純批次系統
+Single-user manual operation|單一使用者手動操作
+Shortest Job First|最短工作優先
+Round Robin|循環排程
+Priority scheduling|優先權排程
+First Come First Served|先到先服務
+First Come First Serve|先到先服務
+Memory Management Unit|記憶體管理單元
+Network card|網路卡
+Optical drive|光碟機
+Domain Name System|網域名稱系統（Domain Name System）
+Flow control|流量控制
+Routing|路由
+DNS lookup|DNS 查詢
+Fragmentation|分割
+Congestion control|壅塞控制
+Address translation|位址轉換
+Name resolution|名稱解析
+Encryption|加密
+Uniform Resource Locator|統一資源定位器（Uniform Resource Locator）
+Universal Routing Layer|通用路由層（Universal Routing Layer）
+User Record List|使用者記錄清單（User Record List）
+Unified Remote Login|統一遠端登入（Unified Remote Login）
+Internet Message Access Protocol|網際網路訊息存取協定（Internet Message Access Protocol）
+Internet Mail Address Port|網際網路郵件位址埠（Internet Mail Address Port）
+Internal Message Application Protocol|內部訊息應用協定（Internal Message Application Protocol）
+Internet Management Access Program|網際網路管理存取程式（Internet Management Access Program）
+Bulletin Board System|電子佈告欄系統（Bulletin Board System）
+Binary Bus Service|二進位匯流排服務（Binary Bus Service）
+Browser Backup System|瀏覽器備份系統（Browser Backup System）
+Basic Bit Storage|基本位元儲存（Basic Bit Storage）
+Spam|垃圾郵件
+A signature|簽章
+A certificate|憑證
+A hash|雜湊
+Authentication|身分認證
+Authorization|授權
+Accounting|帳務管理
+Certificate Authority|憑證授權中心
+A router|路由器
+An ISP|網際網路服務供應商
+A search engine|搜尋引擎
+Phishing|網路釣魚
+Hashing|雜湊運算
+Dynamic loading|動態載入
+Symmetric encryption|對稱式加密
+Public-key encryption|公開金鑰加密
+Digital signature verification|數位簽章驗證
+Starvation|飢餓
+Buffering|緩衝
+Star|星狀
+Ring|環狀
+Mesh|網狀
+Modem|數據機
+Switch|交換器
+Hub|集線器
+Bridge|橋接器
+Frame|訊框
+Segment|區段
+Datagram|資料包
+CPU (control and arithmetic/logic)|CPU（控制與算術邏輯）
+Input/output|輸入／輸出
+Arithmetic unit|算術單元
+USB flash drive|隨身碟
+USB cable|USB 纜線
+Expansion port|擴充連接埠
+Serial port|序列埠
+Users and hardware|使用者與硬體
+Hardware and firmware|硬體與韌體
+Memory and CPU|記憶體與 CPU
+Software and networks|軟體與網路
+Pages|分頁
+Segments|區段
+Sectors|磁區
+Files|檔案
+False|錯誤
+True|正確
+Identifier|識別碼
+Filename|檔案名稱
+Creation date|建立日期
+File size|檔案大小
+Multiprogramming: event-driven; time-sharing: time-driven|多程式：事件驅動；分時：時間驅動
+Both are exclusively time-driven|兩者皆完全由時間驅動
+Both are exclusively event-driven|兩者皆完全由事件驅動
+Multiprogramming: time-driven; time-sharing: event-driven|多程式：時間驅動；分時：事件驅動
+Memory management|記憶體管理
+File management|檔案管理
+Process accounting|行程帳務管理
+Peripheral management|周邊設備管理
+Process management|行程管理
+Memory refresh|記憶體更新
+Broadcasting|廣播
+Signal conversion|訊號轉換
+Optical fiber|光纖
+Twisted pair|雙絞線
+Coaxial cable|同軸電纜
+Telephone wire|電話線
+Wi-Fi Alliance|Wi-Fi 聯盟
+Above 35000 km|高於 35000 公里
+Below 50 km|低於 50 公里
+Above 100000 km|高於 100000 公里
+Both always have identical range|兩者的涵蓋範圍永遠相同
+Neither can penetrate walls|兩者皆無法穿透牆壁
+No|否
+Yes|是
+Three-way handshake|三向交握
+Simulation|模擬（Simulation）
+Emulation|仿真（Emulation）
+Integration|整合
+Virtualization|虛擬化
+Packet capture and analysis|封包擷取與分析
+Web authoring|網頁製作
+Hardware repair|硬體維修
+Word processing|文書處理
+Email|電子郵件
+Online games|線上遊戲
+Client-server|主從式架構
+Peer-to-peer|點對點架構
+Standalone computing|單機運算
+Mesh topology|網狀拓樸
+Protocol|協定
+Domain name|網域名稱
+File path|檔案路徑
+Host name|主機名稱
+Windows Explorer|Windows 檔案總管
+Freemium|免費增值（Freemium）
+Premium|付費進階（Premium）
+Freeware|免費軟體（Freeware）
+Content generated through user participation|透過使用者參與產生內容
+Faster transmission alone|僅有更快的傳輸速度
+Mandatory replacement of television|強制取代電視
+All content supplied only by administrators|所有內容僅由管理員提供
+Tag names must be strictly case-sensitive|標籤名稱必須嚴格區分大小寫
+Tags use angle brackets|標籤使用角括號
+Many tags have opening and closing forms|許多標籤具有起始與結束形式
+Tags mark document structure|標籤標示文件結構
+Massive Open Online Courses|大規模開放式線上課程（Massive Open Online Courses）
+Multi Open Office Courses|多重開放辦公室課程（Multi Open Office Courses）
+Minor Open Online Center|小型開放線上中心（Minor Open Online Center）
+Modern Office Online Classes|現代辦公室線上課程（Modern Office Online Classes）
+Browser type|瀏覽器類型
+File path and name|檔案路徑與名稱
+Avoid opening it merely out of curiosity|避免僅因好奇而開啟
+Always open it immediately|一律立即開啟
+Disable antivirus first|先停用防毒軟體
+Forward it to everyone|轉寄給所有人
+Reliability|可靠性
+Confidentiality|機密性
+Integrity|完整性
+Availability|可用性
+Symmetric-key encryption|對稱式金鑰加密
+Asymmetric-key encryption|非對稱式金鑰加密
+Hash function|雜湊函數
+Digital signature|數位簽章
+Factoring large integers|大整數因數分解
+Matrix addition|矩陣加法
+Generating any random number|產生任意亂數
+Sorting strings|字串排序
+Lock|鎖頭
+Key|鑰匙
+Shield|盾牌
+Privacy|隱私
+Property|財產
+Accuracy|正確性
+Access|存取
+Public key|公開金鑰
+Private key|私密金鑰
+Hash value|雜湊值
+Remainder|餘數
+Physical disk platters|實體磁碟碟片
+CPU instructions|CPU 指令
+RAM refreshing|RAM 更新
+One's-complement addition|1 的補數加法
+Never trust always verify|永不信任，持續驗證
+Always trust the internal network|永遠信任內部網路
+Trust only firewalls|只信任防火牆
+Simplify every login without verification|簡化所有登入且不進行驗證
+Malicious software disguised to steal information or enable unauthorized control|偽裝成其他程式以竊取資訊或進行未授權控制的惡意軟體
+Software whose only purpose is self-replication|唯一用途為自我複製的軟體
+A legitimate memory-refresh tool|合法的記憶體更新工具
+A type of optical disc|一種光碟
+American Standard Code for Information Interchange|美國資訊交換標準碼（American Standard Code for Information Interchange）
+Time slices|時間片段
+Logical|邏輯
+Cells|細胞群
+Manufacturer|製造商
+Network ID|網路識別碼
+Broadcast|廣播
+Keywords|關鍵字
+Main memory Cache Registers|主記憶體 → 快取記憶體 → 暫存器
+RAM ROM|RAM、ROM
+MS-DOS, using a text-based command-line interface.|MS-DOS，使用文字式命令列介面。
+World Wide Web — 全球資訊網; also called Web.|全球資訊網（World Wide Web），亦稱 Web。
+Resolution — 解析度; the resolution is too low — 解析度太低.|解析度（Resolution）；解析度太低。
+54,000 KB/s, approximately 54 MB/s.|54,000 KB/s，約 54 MB/s。
+The data is lost.|資料會遺失。
+The data is retained.|資料會保留。
+Flip-flops — 正反器; it does not require refreshing while power is maintained.|正反器（Flip-flops）；持續供電時不需要更新。
+SRAM is faster and more expensive; DRAM is slower and cheaper.|SRAM 速度較快且價格較高；DRAM 較慢且較便宜。
+The original and received data's hash values — 雜湊值.|原始資料與接收資料的雜湊值。
+SAE — Simultaneous Authentication of Equals.|SAE（Simultaneous Authentication of Equals，同等身分同步認證）。
+Yes. Its binary form has contiguous leading 1 bits followed by 0 bits.|是。其二進位形式為連續的前導 1，後接連續的 0。
+No. Its 1 bits are not contiguous.|否。其 1 位元並不連續。
