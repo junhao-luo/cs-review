@@ -1,7 +1,7 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
 const storage=new Map(),document={documentElement:{dataset:{}}};
 const c=vm.createContext({document,localStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v)},window:{matchMedia:()=>({matches:true})},console});
-for(const name of ['questions.js','grading.js','localization.js'])vm.runInContext(fs.readFileSync('dist/'+name,'utf8'),c);
+for(const name of ['questions.js','teacher-core.js','grading.js','localization.js'])vm.runInContext(fs.readFileSync('dist/'+name,'utf8'),c);
 vm.runInContext(fs.readFileSync('dist/preferences.js','utf8').replace('setupPreferences();',''),c);
 vm.runInContext(`
 if(preferences.theme!=='dark')throw Error('Follow system theme');
@@ -15,8 +15,11 @@ if(translated('23 / 50 answered')!=='已作答 23 / 50 題')throw Error('Progres
 const q=BANK.find(q=>q.kind==='fill'&&q.answer==='Keywords');
 if(!isEquivalent(q,'關鍵字'))throw Error('Chinese answer equivalent');
 if(isEquivalent(q,'網路釣魚'))throw Error('Wrong Chinese answer');
+if(translated('80 fixed teacher-core questions + 30 randomized extra questions on every new attempt.')!=='每次新練習皆包含 80 題固定老師重點＋30 題隨機延伸題。')throw Error('Core intro');
+if(translated('110 / 110 answered')!=='已作答 110 / 110 題')throw Error('Expanded progress');
+if(translated('Part 2 · 81 questions · 162 points')!=='第 2 部分 · 81 題 · 162 分')throw Error('Expanded section');
 preferences.language='en';
 if(translated('Flag for review')!=='Flag for review')throw Error('English restoration');
 `,c);
 assert.equal(JSON.parse(storage.get('cs-midterm-preferences-v1')).language,'zh-Hant');
-console.log('PASS: all 404 prompts localized; translated choices stay distinct; system dark mode; saved preferences; Chinese grading and English restoration.');
+console.log('PASS: all 408 prompts localized; translated choices stay distinct; system dark mode; saved preferences; Chinese grading and English restoration.');
