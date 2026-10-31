@@ -12,5 +12,15 @@
   "Extra practice: randomized textbook and homework questions beyond the fixed core.": "延伸練習：固定核心以外，從課本與作業隨機抽出的題目。",
   "The acquired social/communication service and the numeric IP example could not be identified reliably, so no exact answer is claimed. The two Web terminology blanks, historical dates, dynamic-loading wording, and checked wireless-security rows also need class notes.": "被收購的社群／通訊服務與 IP 數值範例無法可靠辨識，因此不宣稱已確認正確答案。兩題 Web 用語、歷史年份、動態載入措辭與老師勾選的無線安全表格列項，也需要上課筆記確認。",
   "The actual announced exam remains 20 multiple-choice + 30 fill-in questions. This longer practice set is for revision.": "老師公布的實際考試仍為 20 題選擇題＋30 題填充題。這份加長版試卷用於複習。",
-  "This saved attempt uses the previous 50-question format. Start a new attempt for the full teacher core and randomized extras.": "這份已儲存的作答使用舊版 50 題格式。開始新練習即可包含完整老師重點與隨機延伸題。"
+  "This saved attempt uses the previous 50-question format. Start a new attempt for the full teacher core and randomized extras.": "這份已儲存的作答使用舊版 50 題格式。開始新練習即可包含完整老師重點與隨機延伸題。",
+  "Exactly the 30 questions you supplied stay in every attempt. Add 30 randomized textbook and homework questions.": "每次練習固定包含你提供的 30 題，另加入 30 題隨機課本與作業練習。",
+  "Only the 30 supplied questions carry the teacher-provided label · 30 randomized extras · 3 questions await source verification and are unscored": "只有提供的 30 題標記為老師提供 · 另加 30 題隨機延伸題 · 3 題待核對來源，暫不計分",
+  "★ Teacher-provided (original Q number)": "★ 老師提供（原題號）",
+  "Needs verification · Not scored": "待核對來源 · 不計分",
+  "Teacher-provided list: what is fixed": "老師提供的題目：固定範圍",
+  "This saved attempt uses an earlier question list. Start a new attempt for exactly the 30 supplied questions plus randomized extras.": "這份已儲存的作答使用舊版題目清單。開始新練習即可使用你提供的 30 題與隨機延伸題。",
+  "Only the 30 questions in your supplied file are marked ★ Teacher-provided. All 30 appear in every new attempt, identified by their original Q01–Q30 numbers. Other questions are randomized extra practice.": "只有你提供的檔案中的 30 題標記為 ★ 老師提供。每次新練習皆包含全部 30 題，並保留原始題號 Q01–Q30。其他題目皆為隨機延伸練習。",
+  "The supplied questions and explanations are preserved. Q5 has a routing/checksum ambiguity; Q9 cannot identify an institution from “140” alone; Q15 conflates commercial Internet access with the WWW proposal date. These three are retained but excluded from scoring pending verification.": "保留提供的題目與解釋。Q5 的路由／檢查碼題意有歧義；Q9 無法僅憑「140」判定機構；Q15 混淆商用上網與 WWW 概念提出的時間。這三題仍保留，核對前暫不計分。",
+  "Answers and explanations appear after submission. The file’s other qualifications remain visible in review; the teacher-provided label identifies the supplied list, not independent verification of every answer.": "交卷後顯示答案與解釋。檔案中的其他限制與提醒會保留在檢討畫面；「老師提供」標籤表示題目來自這份清單，並非宣稱每個答案皆已獨立驗證。",
+  "All scored questions are answered. Submit and reveal your score and textbook sources?": "所有計分題皆已作答。確定交卷並顯示成績與來源？"
 }

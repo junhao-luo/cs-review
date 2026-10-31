@@ -14,6 +14,11 @@ function translated(text){
  let z=ZH_PROMPTS[s]||ZH_TERMS[s]||ZH_UI[s];
  if(!z){
   z=s.replace(/^(\d+) \/ (\d+) answered$/,'已作答 $1 / $2 題')
+   .replace(/^★ Teacher-provided Q(\d+) · Always included$/,'★ 老師提供 Q$1 · 每次必含')
+   .replace(/^Question (\d+) · Teacher-provided Q(\d+)$/,'第 $1 題 · 老師提供 Q$2')
+   .replace(/^(\d+) teacher-provided questions \+ (\d+) randomized extra questions on every new attempt\.$/,'每次新練習皆包含 $1 題老師提供題＋$2 題隨機延伸題。')
+   .replace(/^(\d+) source-verification questions are excluded from scoring\.$/,'$1 題待核對來源，暫不計分。')
+   .replace(/^QUESTION (\d+) \/ UNSCORED — VERIFY SOURCE$/,'第 $1 題／不計分，待核對來源')
    .replace(/^Question (\d+)$/,'第 $1 題')
    .replace(/^QUESTION (\d+) \/ 2 POINTS$/,'第 $1 題／2 分')
    .replace(/^(\d+) questions in the bank · Textbook \+ Chapters 1–8 homework$/,'題庫共 $1 題 · 課本與第 1–8 章作業')
@@ -30,6 +35,7 @@ function translated(text){
   if(s.startsWith('Textbook answer: ')){
    const answer=s.slice(17);z='課本答案：'+(ZH_TERMS[answer]||answer.replace(/\bbytes\b/g,'位元組').replace(/\bbits\b/g,'位元').replace(/\blayers\b/g,'層'));
   }
+  if(s.startsWith('Provided answer: '))z='提供的答案：'+s.slice(17);
   // Keep original page numbers and filenames intact for precise source lookup.
   z=z.replace(/Textbook /g,'課本 ').replace(/Homework /g,'作業 ').replace(/PDF p\./g,'PDF 頁').replace(/PDF pp\./g,'PDF 頁').replace(/printed /g,'印刷頁 ').replace(/short answer /g,'簡答題 ').replace(/true\/false /g,'是非題 ').replace(/fill Q/g,'填充題 Q').replace(/MC Q/g,'選擇題 Q').replace(/, adapted/g,'，改編');
  }

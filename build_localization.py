@@ -5,7 +5,7 @@ def pairs(name):
     return dict(line.split('|',1) for line in Path(name).read_text(encoding='utf8').splitlines() if line)
 terms=pairs('terms-zh.txt')
 ui=pairs('ui-zh.txt')
-prompts.update({'What is the hypothetical computing machine proposed by Alan Turing called?':'Alan Turing 提出的假想計算機器稱為什麼？'})
+prompts.update(json.loads(Path('teacher-prompts-zh.json').read_text(encoding='utf8')))
 ui.update(json.loads(Path('teacher-ui-zh.json').read_text(encoding='utf8')))
 out='const ZH_PROMPTS='+json.dumps(prompts,ensure_ascii=False)+';\nconst ZH_TERMS='+json.dumps(terms,ensure_ascii=False)+';\nconst ZH_UI='+json.dumps(ui,ensure_ascii=False)+';\n'
 Path('dist/localization.js').write_text(out,encoding='utf8')

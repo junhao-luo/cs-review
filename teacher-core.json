@@ -1,482 +1,242 @@
 [
   {
-    "id": "seed-1-mc",
-    "status": "mentioned",
-    "prompt": "Which electronic component was used in first-generation computers?",
-    "source": "Homework Chapter 1-2.pdf, D-1, MC Q3; Table 1-1, p. 1-4; PDF p. 28"
+    "id": "provided-01",
+    "status": "provided",
+    "number": 1,
+    "prompt": "What is the main character encoding used for Internet communication?",
+    "originalPrompt": "上網通訊最主要的編碼",
+    "source": "Teacher-provided 30-question list, Q01; Related textbook reference: ASCII 及 Unicode, p. 2-22; PDF p. 62"
+  },
+  {
+    "id": "provided-02",
+    "status": "provided",
+    "number": 2,
+    "prompt": "What is the basic encoding unit of UTF-8?",
+    "originalPrompt": "UTF-8 的基本編碼單位",
+    "source": "Teacher-provided 30-question list, Q02; Related textbook reference: ASCII 及 Unicode, p. 2-22; PDF p. 62"
+  },
+  {
+    "id": "provided-03",
+    "status": "provided",
+    "number": 3,
+    "prompt": "What carries transmissions between the microprocessor and RAM?",
+    "originalPrompt": "微處理器與 RAM 之間負責傳輸的工具",
+    "source": "Teacher-provided 30-question list, Q03; Related textbook reference: p. 3-7; PDF p. 71"
+  },
+  {
+    "id": "provided-04",
+    "status": "provided",
+    "number": 4,
+    "prompt": "What core technology does EasyCard use?",
+    "originalPrompt": "悠遊卡採用的核心技術",
+    "source": "Teacher-provided 30-question list, Q04; Related textbook reference: Homework Chapter 3-8.pdf, PDF p. 6, printed D-10, MC Q11; pp. 5-29–5-30; PDF pp. 141–142"
+  },
+  {
+    "id": "provided-05",
+    "status": "provided",
+    "number": 5,
+    "prompt": "What algorithm underlies the TCP/IP Internet layer?",
+    "originalPrompt": "TCP/IP 網路互聯層的演算法基礎",
+    "source": "Teacher-provided 30-question list, Q05"
+  },
+  {
+    "id": "provided-06",
+    "status": "provided",
+    "number": 6,
+    "prompt": "What is the core principle of TCP transport-layer congestion control?",
+    "originalPrompt": "TCP/IP 傳輸層的擁塞控制演算法核心",
+    "source": "Teacher-provided 30-question list, Q06"
+  },
+  {
+    "id": "provided-07",
+    "status": "provided",
+    "number": 7,
+    "prompt": "Which network-model layer transmits packets?",
+    "originalPrompt": "網路模型架構中負責傳「封包（Packet）」的層級",
+    "source": "Teacher-provided 30-question list, Q07; Related textbook reference: p. 5-13; PDF p. 125; numbering on p. 5-10, PDF p. 122"
+  },
+  {
+    "id": "provided-08",
+    "status": "provided",
+    "number": 8,
+    "prompt": "At which network-model layer does a router operate?",
+    "originalPrompt": "路由器（Router）運作的層級",
+    "source": "Teacher-provided 30-question list, Q08; Related textbook reference: Homework Chapter 3-8.pdf, PDF p. 5, printed D-9, MC Q8; 路由器, p. 5-16; PDF p. 128"
+  },
+  {
+    "id": "provided-09",
+    "status": "provided",
+    "number": 9,
+    "prompt": "In Taiwan Internet culture, what institution does an IP address beginning with 140 represent?",
+    "originalPrompt": "台灣網路文化中 IP 開頭為「140」所代表的機構",
+    "source": "Teacher-provided 30-question list, Q09"
+  },
+  {
+    "id": "provided-10",
+    "status": "provided",
+    "number": 10,
+    "prompt": "What service delivery method does YouTube use?",
+    "originalPrompt": "YouTube 的服務供應方式",
+    "source": "Teacher-provided 30-question list, Q10"
+  },
+  {
+    "id": "provided-11",
+    "status": "provided",
+    "number": 11,
+    "prompt": "What provider supplies Internet access to the public?",
+    "originalPrompt": "大眾上網的服務供應方式",
+    "source": "Teacher-provided 30-question list, Q11"
+  },
+  {
+    "id": "provided-12",
+    "status": "provided",
+    "number": 12,
+    "prompt": "Apart from blocking attacks, what are a firewall’s core basic functions?",
+    "originalPrompt": "防火牆在擋攻擊之外最核心的基礎功能",
+    "source": "Teacher-provided 30-question list, Q12; Related textbook reference: 防火牆與入侵偵測系統, p. 8-32; PDF p. 240"
+  },
+  {
+    "id": "provided-13",
+    "status": "provided",
+    "number": 13,
+    "prompt": "What core theoretical computing invention did Alan Turing introduce?",
+    "originalPrompt": "艾倫·圖靈定義現代電腦架構的最核心發明",
+    "source": "Teacher-provided 30-question list, Q13; Related textbook reference: Textbook p. 1-2; PDF p. 26"
   },
   {
-    "id": "seed-2-mc",
-    "status": "mentioned",
-    "prompt": "Which electronic component was used in second-generation computers?",
-    "source": "Table 1-1, p. 1-4; PDF p. 28"
+    "id": "provided-14",
+    "status": "provided",
+    "number": 14,
+    "prompt": "Why does a 1 TB hard drive show about 931 GB in Windows?",
+    "originalPrompt": "買 1TB 硬碟插上 Windows 電腦實際顯示約 931GB 的原因",
+    "source": "Teacher-provided 30-question list, Q14"
   },
   {
-    "id": "seed-3-mc",
-    "status": "mentioned",
-    "prompt": "Which electronic component was used in third-generation computers?",
-    "source": "Table 1-1, p. 1-4; PDF p. 28"
+    "id": "provided-15",
+    "status": "provided",
+    "number": 15,
+    "prompt": "When were the world’s first commercial paid Internet services for the general public introduced?",
+    "originalPrompt": "全球首批推出商用大眾付費上網服務的時間",
+    "source": "Teacher-provided 30-question list, Q15"
   },
   {
-    "id": "seed-4-mc",
-    "status": "mentioned",
-    "prompt": "How many bits make up one byte?",
-    "source": "p. 2-2; PDF p. 42"
+    "id": "provided-16",
+    "status": "provided",
+    "number": 16,
+    "prompt": "Which early Microsoft operating system preceded widespread Windows use and underpinned early Windows?",
+    "originalPrompt": "Windows 普及前、微軟最核心且早期作為其底層的作業系統",
+    "source": "Teacher-provided 30-question list, Q16; Related textbook reference: Windows, p. 4-27; PDF p. 105"
   },
   {
-    "id": "seed-5-mc",
-    "status": "mentioned",
-    "prompt": "How many bits does standard ASCII use per character?",
-    "source": "Homework Chapter 1-2.pdf, D-3, MC Q5; ASCII 及 Unicode, p. 2-20; PDF p. 60"
+    "id": "provided-17",
+    "status": "provided",
+    "number": 17,
+    "prompt": "Which Taiwanese semiconductor company attracted attention for building a US factory in 2022?",
+    "originalPrompt": "2022 年台灣半導體最受矚目的海外設廠公司",
+    "source": "Teacher-provided 30-question list, Q17; Related textbook reference: 硬體架構與量子突破, p. 1-10; PDF p. 34"
   },
   {
-    "id": "seed-6-mc",
-    "status": "mentioned",
-    "prompt": "How many bits are in the basic unit of UTF-8?",
-    "source": "ASCII 及 Unicode, p. 2-22; PDF p. 62"
-  },
-  {
-    "id": "seed-7-mc",
-    "status": "mentioned",
-    "prompt": "How many bits are in the basic unit of UTF-16?",
-    "source": "ASCII 及 Unicode, p. 2-22; PDF p. 62"
-  },
-  {
-    "id": "seed-8-mc",
-    "status": "mentioned",
-    "prompt": "Which bus transfers data between the CPU and memory?",
-    "source": "匯流排及介面, p. 3-11; PDF p. 75"
-  },
-  {
-    "id": "seed-10-mc",
-    "status": "unclear",
-    "prompt": "What is the single-speed DVD transfer rate given in the textbook?",
-    "source": "光碟片, pp. 3-13–3-14; PDF pp. 77–78"
-  },
-  {
-    "id": "seed-11-mc",
-    "status": "mentioned",
-    "prompt": "Which identification technology does EasyCard use, according to the textbook?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 6, printed D-10, MC Q11; pp. 5-29–5-30; PDF pp. 141–142"
-  },
-  {
-    "id": "seed-12-mc",
-    "status": "mentioned",
-    "prompt": "Which OSI layer uses packets as its data transmission unit?",
-    "source": "p. 5-13; PDF p. 125; numbering on p. 5-10, PDF p. 122"
-  },
-  {
-    "id": "seed-14-mc",
-    "status": "mentioned",
-    "prompt": "At which OSI layer does a router operate?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 5, printed D-9, MC Q8; 路由器, p. 5-16; PDF p. 128"
-  },
-  {
-    "id": "seed-15-mc",
-    "status": "mentioned",
-    "prompt": "Which arithmetic operations underlie the TCP/IP checksum described in the textbook?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 7, printed D-11, MC Q7; 可靠傳輸, p. 6-13; PDF p. 157"
-  },
-  {
-    "id": "seed-18-mc",
-    "status": "mentioned",
-    "prompt": "What packet actions can a firewall perform according to its rules?",
-    "source": "防火牆與入侵偵測系統, p. 8-32; PDF p. 240"
-  },
-  {
-    "id": "seed-20-fill",
-    "status": "mentioned",
-    "prompt": "Which electronic component was used in fourth-generation computers?",
-    "source": "Table 1-1, p. 1-4; PDF p. 28"
-  },
-  {
-    "id": "seed-24-fill",
-    "status": "mentioned",
-    "prompt": "What does ACM stand for?",
-    "source": "Appendix, acronym glossary, ACM row; PDF p. 466"
-  },
-  {
-    "id": "seed-25-fill",
-    "status": "mentioned",
-    "prompt": "How many bytes are in 1 KB under the textbook's convention?",
-    "source": "資料容量的單位, p. 2-4; PDF p. 44"
-  },
-  {
-    "id": "seed-26-fill",
-    "status": "mentioned",
-    "prompt": "How many KB are in 1 MB under the textbook's convention?",
-    "source": "資料容量的單位, p. 2-4; PDF p. 44"
-  },
-  {
-    "id": "seed-27-fill",
-    "status": "mentioned",
-    "prompt": "How many MB are in 1 GB under the textbook's convention?",
-    "source": "資料容量的單位, p. 2-4; PDF p. 44"
-  },
-  {
-    "id": "seed-28-fill",
-    "status": "mentioned",
-    "prompt": "How many GB are in 1 TB under the textbook's convention?",
-    "source": "資料容量的單位, p. 2-4; PDF p. 44"
-  },
-  {
-    "id": "seed-29-fill",
-    "status": "mentioned",
-    "prompt": "What image property is too low when the sampling grid produces a jagged image?",
-    "source": "資料型態, p. 2-5; PDF p. 45"
-  },
-  {
-    "id": "seed-30-fill",
-    "status": "mentioned",
-    "prompt": "How many bits does extended ASCII use per character?",
-    "source": "ASCII 及 Unicode, p. 2-20; PDF p. 60"
-  },
-  {
-    "id": "seed-31-fill",
-    "status": "mentioned",
-    "prompt": "How many bits are in the basic unit of UTF-32?",
-    "source": "ASCII 及 Unicode, p. 2-22; PDF p. 62"
-  },
-  {
-    "id": "seed-32-fill",
-    "status": "mentioned",
-    "prompt": "Practice: Convert decimal 50 to binary.",
-    "source": "Calculated using the method on p. 2-7; PDF p. 47"
-  },
-  {
-    "id": "seed-33-fill",
-    "status": "mentioned",
-    "prompt": "Practice: Convert decimal 50 to hexadecimal.",
-    "source": "Calculated using the methods on pp. 2-7 and 2-9; PDF pp. 47 and 49"
-  },
-  {
-    "id": "seed-34-fill",
-    "status": "mentioned",
-    "prompt": "What does RAM stand for (English or Mandarin)?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "seed-35-fill",
-    "status": "mentioned",
-    "prompt": "What does ROM stand for (English or Mandarin)?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "seed-36-fill",
-    "status": "mentioned",
-    "prompt": "What is SRAM's full name and Mandarin term?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "seed-37-fill",
-    "status": "mentioned",
-    "prompt": "What is DRAM's full name and Mandarin term?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "seed-38-fill",
-    "status": "mentioned",
-    "prompt": "What is the process of starting a computer called?",
-    "source": "p. 4-3, Fig. 4-2; PDF p. 81"
-  },
-  {
-    "id": "seed-39-fill",
-    "status": "mentioned",
-    "prompt": "Which address used by a program is mapped to an actual memory address?",
-    "source": "記憶體管理, p. 4-18, Fig. 4-13; PDF p. 96"
-  },
-  {
-    "id": "seed-42-fill",
-    "status": "mentioned",
-    "prompt": "How many layers are in the OSI model?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 5, printed D-9, MC Q5; OSI 與 TCP/IP 模型, p. 5-10, Fig. 5-11; PDF p. 122"
-  },
-  {
-    "id": "seed-43-fill",
-    "status": "mentioned",
-    "prompt": "What does the textbook call mobile-network coverage areas?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 6, printed D-10, fill Q3; 第一代行動通訊網路, p. 5-18, Fig. 5-19; PDF p. 130"
-  },
-  {
-    "id": "seed-44-fill",
-    "status": "mentioned",
-    "prompt": "Which command queries the relationship between a domain name and an IP address?",
-    "source": "p. 6-18, Fig. 6-12; PDF p. 162"
-  },
-  {
-    "id": "seed-46-fill",
-    "status": "mentioned",
-    "prompt": "What mechanism can be used to check whether data has been altered?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 12, printed D-16, fill Q2; 資料完整性, p. 8-12; PDF p. 220"
-  },
-  {
-    "id": "seed-47-fill",
-    "status": "mentioned",
-    "prompt": "Which key is used to encrypt a message for a recipient in public-key encryption?",
-    "source": "pp. 8-6–8-7, Fig. 8-6; PDF pp. 214–215"
-  },
-  {
-    "id": "seed-48-fill",
-    "status": "mentioned",
-    "prompt": "Which key is used to create a digital signature?",
-    "source": "數位簽章, p. 8-14; PDF p. 222"
-  },
-  {
-    "id": "seed-49-fill",
-    "status": "mentioned",
-    "prompt": "Which authentication standard is listed for Enterprise wireless security modes?",
-    "source": "Table 8-3 and accompanying text, p. 8-34; PDF p. 242"
-  },
-  {
-    "id": "extra-8-fill",
-    "status": "unclear",
-    "prompt": "Which company does the textbook describe as establishing a U.S. facility in 2022?",
-    "source": "硬體架構與量子突破, p. 1-10; PDF p. 34"
-  },
-  {
-    "id": "extra-15-fill",
-    "status": "mentioned",
-    "prompt": "How many bytes are in 1 TB under the textbook's convention?",
-    "source": "資料容量的單位, p. 2-4; PDF p. 44"
-  },
-  {
-    "id": "extra-22-fill",
-    "status": "unclear",
-    "prompt": "Which character encoding does the textbook describe as most prevalent on the WWW?",
-    "source": "ASCII 及 Unicode, p. 2-22; PDF p. 62"
-  },
-  {
-    "id": "extra-30-fill",
-    "status": "mentioned",
-    "prompt": "What is the general name for the electronic-signal transmission pathways in a computer?",
-    "source": "p. 3-7; PDF p. 71"
-  },
-  {
-    "id": "extra-35-fill",
-    "status": "unclear",
-    "prompt": "What is the 40× DVD rate in KB/s in the textbook?",
-    "source": "光碟片, p. 3-14; PDF p. 78"
-  },
-  {
-    "id": "extra-37-fill",
-    "status": "mentioned",
-    "prompt": "What happens to RAM data when power is removed?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "extra-39-fill",
-    "status": "mentioned",
-    "prompt": "What happens to ROM data when power is removed?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "extra-44-fill",
-    "status": "mentioned",
-    "prompt": "Which is faster and more expensive in the textbook's comparison: SRAM or DRAM?",
-    "source": "p. 3-9; PDF p. 73"
-  },
-  {
-    "id": "extra-56-fill",
-    "status": "mentioned",
-    "prompt": "What equipment transmits and receives signals for each cell?",
-    "source": "p. 5-18, Fig. 5-19; PDF p. 130"
-  },
-  {
-    "id": "extra-59-fill",
-    "status": "unclear",
-    "prompt": "Which transport protocol is connection-oriented?",
-    "source": "pp. 6-12–6-13; PDF pp. 156–157"
-  },
-  {
-    "id": "extra-62-fill",
-    "status": "unclear",
-    "prompt": "Which transport protocol does the textbook suggest considering for real-time audio/video that tolerates some loss?",
-    "source": "p. 6-13; PDF p. 157"
-  },
-  {
-    "id": "extra-64-fill",
-    "status": "mentioned",
-    "prompt": "What type of organization does .com represent in the textbook's domain-name table?",
-    "source": "Table 7-2, p. 7-12; PDF p. 184"
-  },
-  {
-    "id": "extra-65-fill",
-    "status": "mentioned",
-    "prompt": "What type of organization does .edu represent in the textbook's domain-name table?",
-    "source": "Table 7-2, p. 7-12; PDF p. 184"
-  },
-  {
-    "id": "extra-66-fill",
-    "status": "mentioned",
-    "prompt": "What type of organization does .gov represent in the textbook's domain-name table?",
-    "source": "Table 7-2, p. 7-12; PDF p. 184"
-  },
-  {
-    "id": "extra-67-fill",
-    "status": "mentioned",
-    "prompt": "What does .net represent in the textbook's domain-name table?",
-    "source": "Table 7-2, p. 7-12; PDF p. 184"
-  },
-  {
-    "id": "extra-68-fill",
-    "status": "mentioned",
-    "prompt": "What does .org represent in the textbook's domain-name table?",
-    "source": "Table 7-2, p. 7-12; PDF p. 184"
-  },
-  {
-    "id": "extra-69-fill",
-    "status": "mentioned",
-    "prompt": "What service category do Google and Yahoo provide?",
-    "source": "搜尋引擎, p. 7-15; PDF p. 187"
-  },
-  {
-    "id": "extra-76-fill",
-    "status": "mentioned",
-    "prompt": "What values are compared when checking data integrity with a hash function?",
-    "source": "p. 8-12; PDF p. 220"
-  },
-  {
-    "id": "extra-78-fill",
-    "status": "mentioned",
-    "prompt": "Which key does the recipient use to decrypt a public-key-encrypted message?",
-    "source": "pp. 8-6–8-7, Fig. 8-6; PDF pp. 214–215"
-  },
-  {
-    "id": "extra-80-fill",
-    "status": "mentioned",
-    "prompt": "Which key is used to verify a digital signature?",
-    "source": "數位簽章, p. 8-14; PDF p. 222"
-  },
-  {
-    "id": "extra-82-fill",
-    "status": "unclear",
-    "prompt": "Which early wireless security protocol does the textbook describe as insecure and advise against using?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 11, printed D-15, MC Q6; Table 8-3 and accompanying text, p. 8-34; PDF p. 242"
-  },
-  {
-    "id": "extra-84-fill",
-    "status": "unclear",
-    "prompt": "Which encryption method does Table 8-3 list for WPA?",
-    "source": "Table 8-3, p. 8-34; PDF p. 242"
-  },
-  {
-    "id": "extra-86-fill",
-    "status": "unclear",
-    "prompt": "Which encryption method does Table 8-3 list for WPA3?",
-    "source": "Table 8-3, p. 8-34; PDF p. 242"
-  },
-  {
-    "id": "extra-88-fill",
-    "status": "unclear",
-    "prompt": "What does PSK stand for in WPA-PSK?",
-    "source": "p. 8-34; PDF p. 242"
-  },
-  {
-    "id": "extra-89-fill",
-    "status": "unclear",
-    "prompt": "Which authentication mechanism replaces PSK in WPA3-Personal?",
-    "source": "p. 8-34; PDF p. 242"
-  },
-  {
-    "id": "seed-21-fill",
-    "status": "unclear",
-    "prompt": "In which year was the WWW officially launched, according to the textbook?",
-    "source": "網路與 WWW 的革新, p. 1-8; PDF p. 32"
-  },
-  {
-    "id": "seed-22-fill",
-    "status": "unclear",
-    "prompt": "In which year did Tim Berners-Lee propose the WWW, according to the textbook?",
-    "source": "網路與 WWW 的革新, p. 1-8; PDF p. 32"
-  },
-  {
-    "id": "seed-23-fill",
-    "status": "unclear",
-    "prompt": "In which year did the Mosaic graphical browser appear, according to the textbook?",
-    "source": "網路與 WWW 的革新, p. 1-8; PDF p. 32"
-  },
-  {
-    "id": "seed-40-fill",
-    "status": "unclear",
-    "prompt": "What is loading a routine only when it is called known as?",
-    "source": "p. 4-19; PDF p. 97"
-  },
-  {
-    "id": "seed-41-fill",
-    "status": "unclear",
-    "prompt": "Which operating system preceded Windows in the textbook's account?",
-    "source": "Windows, p. 4-27; PDF p. 105"
-  },
-  {
-    "id": "seed-45-fill",
-    "status": "unclear",
-    "prompt": "What does WWW stand for?",
-    "source": "全球資訊網運作原理, p. 7-10; PDF p. 182"
-  },
-  {
-    "id": "fraction-6.125-fill",
-    "status": "mentioned",
-    "prompt": "Convert decimal 6.125 to binary.",
-    "source": "Textbook p. 2-7–2-8; PDF p. 47–48"
-  },
-  {
-    "id": "fraction-6.125-8-fill",
-    "status": "mentioned",
-    "prompt": "Convert decimal 6.125 to octal.",
-    "source": "Textbook p. 2-6–2-9; PDF p. 46–49"
-  },
-  {
-    "id": "fraction-6.125-16-fill",
-    "status": "mentioned",
-    "prompt": "Convert decimal 6.125 to hexadecimal.",
-    "source": "Textbook p. 2-6–2-9; PDF p. 46–49"
-  },
-  {
-    "id": "h3-controlbus-fill",
-    "status": "mentioned",
-    "prompt": "Name the bus that carries control signals.",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 2, printed D-6, fill Q2, adapted into one blank; Textbook p. 3-7; PDF p. 71"
-  },
-  {
-    "id": "h3-addressbus-fill",
-    "status": "mentioned",
-    "prompt": "Name the bus used for address information.",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 2, printed D-6, fill Q2, adapted into one blank; Textbook p. 3-7; PDF p. 71"
-  },
-  {
-    "id": "h3-databus-fill",
-    "status": "mentioned",
-    "prompt": "Name the bus used for exchanging data between units.",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 2, printed D-6, fill Q2, adapted into one blank; Textbook p. 3-7; PDF p. 71"
-  },
-  {
-    "id": "h7-web2-mc",
-    "status": "unclear",
-    "prompt": "What is central to Web 2.0 in the textbook?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 9, printed D-13, MC Q6; Textbook p. 7-22; PDF p. 194"
-  },
-  {
-    "id": "teacher-turing-fill",
-    "status": "mentioned",
-    "prompt": "What is the hypothetical computing machine proposed by Alan Turing called?",
-    "source": "Textbook p. 1-2; PDF p. 26"
-  },
-  {
-    "id": "teacher-ssd-fill",
-    "status": "mentioned",
-    "prompt": "What does SSD stand for?",
-    "source": "儲存裝置, p. 3-13; PDF p. 77"
-  },
-  {
-    "id": "teacher-switch-fill",
-    "status": "mentioned",
-    "prompt": "At which OSI layer does a switch operate in the textbook?",
-    "source": "交換器, p. 5-16; PDF p. 128"
-  },
-  {
-    "id": "teacher-router-fill",
-    "status": "mentioned",
-    "prompt": "At which OSI layer does a router operate?",
-    "source": "Homework Chapter 3-8.pdf, PDF p. 5, printed D-9, MC Q8; 路由器, p. 5-16; PDF p. 128"
+    "id": "provided-18",
+    "status": "provided",
+    "number": 18,
+    "prompt": "What was the first independent formal computing association?",
+    "originalPrompt": "全球第一個獨立成立的正式計算機學會",
+    "source": "Teacher-provided 30-question list, Q18; Related textbook reference: Appendix, acronym glossary, ACM row; PDF p. 466"
+  },
+  {
+    "id": "provided-19",
+    "status": "provided",
+    "number": 19,
+    "prompt": "What core image-quality limitation can make an image look blurry?",
+    "originalPrompt": "一個圖看起來很糊最核心的根本原因",
+    "source": "Teacher-provided 30-question list, Q19; Related textbook reference: 資料型態, p. 2-5; PDF p. 45"
+  },
+  {
+    "id": "provided-20",
+    "status": "provided",
+    "number": 20,
+    "prompt": "What character encoding is commonly used for WWW pages?",
+    "originalPrompt": "WWW 採用的網頁文字編碼",
+    "source": "Teacher-provided 30-question list, Q20; Related textbook reference: ASCII 及 Unicode, p. 2-22; PDF p. 62"
+  },
+  {
+    "id": "provided-21",
+    "status": "provided",
+    "number": 21,
+    "prompt": "What type of drive is commonly bought for modern computers?",
+    "originalPrompt": "現代主流購買的硬碟類型",
+    "source": "Teacher-provided 30-question list, Q21; Related textbook reference: 儲存裝置, p. 3-13; PDF p. 77"
+  },
+  {
+    "id": "provided-22",
+    "status": "provided",
+    "number": 22,
+    "prompt": "What is starting a fully powered-off computer with the power button called?",
+    "originalPrompt": "按下電源鍵開機的行為名稱",
+    "source": "Teacher-provided 30-question list, Q22; Related textbook reference: p. 4-3, Fig. 4-2; PDF p. 81"
+  },
+  {
+    "id": "provided-23",
+    "status": "provided",
+    "number": 23,
+    "prompt": "What type of address is used in operating-system memory mapping?",
+    "originalPrompt": "作業系統管理記憶體映射所使用的位址",
+    "source": "Teacher-provided 30-question list, Q23; Related textbook reference: 記憶體管理, p. 4-18, Fig. 4-13; PDF p. 96"
+  },
+  {
+    "id": "provided-24",
+    "status": "provided",
+    "number": 24,
+    "prompt": "At which network-model layer does a switch operate?",
+    "originalPrompt": "交換器（Switch）運作的網路模型層級",
+    "source": "Teacher-provided 30-question list, Q24; Related textbook reference: 交換器, p. 5-16; PDF p. 128"
+  },
+  {
+    "id": "provided-25",
+    "status": "provided",
+    "number": 25,
+    "prompt": "What are a mobile base station’s coverage area and the action of switching base stations called?",
+    "originalPrompt": "行動電話基地台的涵蓋範圍與接收切換行為",
+    "source": "Teacher-provided 30-question list, Q25"
+  },
+  {
+    "id": "provided-26",
+    "status": "provided",
+    "number": 26,
+    "prompt": "What security tool checks whether data has been altered?",
+    "originalPrompt": "檢查資料是否被竄改的資安工具",
+    "source": "Teacher-provided 30-question list, Q26; Related textbook reference: Homework Chapter 3-8.pdf, PDF p. 12, printed D-16, fill Q2; 資料完整性, p. 8-12; PDF p. 220"
+  },
+  {
+    "id": "provided-27",
+    "status": "provided",
+    "number": 27,
+    "prompt": "Which command, other than ipconfig, looks up domain names and their corresponding IP addresses?",
+    "originalPrompt": "除了 ipconfig 外，查詢與對應網路 IP 的三大核心指令",
+    "source": "Teacher-provided 30-question list, Q27; Related textbook reference: p. 6-18, Fig. 6-12; PDF p. 162"
+  },
+  {
+    "id": "provided-28",
+    "status": "provided",
+    "number": 28,
+    "prompt": "What technology, purpose, and service are used when opening a web page?",
+    "originalPrompt": "網頁一打開所使用的技術、目的與服務種類",
+    "source": "Teacher-provided 30-question list, Q28"
+  },
+  {
+    "id": "provided-29",
+    "status": "provided",
+    "number": 29,
+    "prompt": "What English service name refers to hosting code and collaborating through Git version control?",
+    "originalPrompt": "程式開發中管理版本與推送遠端倉庫的英文服務名稱",
+    "source": "Teacher-provided 30-question list, Q29"
+  },
+  {
+    "id": "provided-30",
+    "status": "provided",
+    "number": 30,
+    "prompt": "When are keys used for digital signatures, and how does this differ from confidentiality encryption?",
+    "originalPrompt": "身分認證與數位簽章的核心金鑰使用時機與差異",
+    "source": "Teacher-provided 30-question list, Q30"
   }
 ]
